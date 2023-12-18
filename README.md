@@ -84,3 +84,12 @@ Schema Table
     ```
     npm start
     ```
+
+
+![photo1702881219](https://github.com/vishaldhaygude01/YogaClassAdmission/assets/97303501/6dba6085-f3d6-4475-928d-0c8f50c51b4d)
+
+
+
+
+![photo1702881216](https://github.com/vishaldhaygude01/YogaClassAdmission/assets/97303501/0999c728-bc75-4bce-9119-6d5228fdef2c)
+
