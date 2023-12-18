@@ -16,4 +16,6 @@ month. I.e. participants can shift from one batch to another in different months
 same month they need to be in the same batch.
 
 
+ER Diagram
+
 ![Untitled Diagram drawio](https://github.com/vishaldhaygude01/YogaClassAdmission/assets/97303501/89d8e8d7-863a-4e1e-8b9c-6d5ec111dac9)
