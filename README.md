@@ -28,6 +28,10 @@ Schema Table
 
 
 
+![photo1702881601](https://github.com/vishaldhaygude01/YogaClassAdmission/assets/97303501/11b0009b-9985-446a-aac9-9944ce837f67)
+
+
+
 
 # Yoga Admission Form Project
 
