@@ -14,3 +14,6 @@ every month and he can pay it any time of the month.
 participants can choose any batch in a month and can move to any other batch next
 month. I.e. participants can shift from one batch to another in different months but in the
 same month they need to be in the same batch.
+
+
+![Untitled Diagram drawio](https://github.com/vishaldhaygude01/YogaClassAdmission/assets/97303501/89d8e8d7-863a-4e1e-8b9c-6d5ec111dac9)
