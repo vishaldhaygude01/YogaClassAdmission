@@ -25,3 +25,62 @@ ER Diagram
 Schema Table
 
 ![photo1702880481](https://github.com/vishaldhaygude01/YogaClassAdmission/assets/97303501/7ea2da39-cf84-483e-a48b-69bc1b44c7c4)
+
+
+
+
+# Yoga Admission Form Project
+
+## Tech Stack:
+- **Frontend:**
+  - React.js
+  - Axios
+  - React Router
+
+- **Backend:**
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Mongoose
+
+## How to Run:
+
+### Backend:
+
+1. Navigate to the `backend` directory.
+    ```
+    cd backend
+    ```
+
+2. Install dependencies.
+    ```
+    npm install
+    ```
+
+3. Start the Node.js server.
+    ```
+    node server.js
+    ```
+
+   or
+
+    ```bash
+    npm start
+    ```
+
+### Frontend:
+
+1. Navigate to the `frontend` directory.
+    ```
+    cd frontend
+    ```
+
+2. Install dependencies.
+    ```
+    npm install
+    ```
+
+3. Start the React development server.
+    ```
+    npm start
+    ```
